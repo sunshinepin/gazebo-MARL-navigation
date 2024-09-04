@@ -1,0 +1,6 @@
+[submodule "catkin_ws"]
+	path = catkin_ws
+	url = https://github.com/sunshinepin/gazebo-MARL-navigation.git
+[submodule "mpe_maddpg_result"]
+	path = mpe_maddpg_result
+	url = https://github.com/sunshinepin/gazebo-MARL-navigation.git
